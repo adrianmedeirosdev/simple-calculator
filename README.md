@@ -1,3 +1,7 @@
-# calculator using html css js
+# Just a calculator made with html css js
 
-![image](https://user-images.githubusercontent.com/57725998/213344656-ddb0c456-4a1f-495d-9209-8faf5be4e9a1.png)
+
+![image](https://user-images.githubusercontent.com/57725998/213344910-8622d784-5f38-45f3-9932-567ed9d4a7e5.png)
+
+
+
