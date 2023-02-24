@@ -1,9 +1,9 @@
-<h1 align="center"> Calculadora Simples </h1>
+<h1 align="center"> Simple calculator </h1>
 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using these technologies:
 
 - HTML, CSS e JS
 - Git e Github
 
-Você pode dar uma olhada nele <a href="https://adrianmedeirosdev.github.io/simple-calculator" target="_blank">clicando aqui</a>.
+You can take a look by <a href="https://adrianmedeirosdev.github.io/simple-calculator" target="_blank">clicking here</a>.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
