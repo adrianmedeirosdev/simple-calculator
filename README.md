@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML, CSS e JS
 - Git e Github
 
-Você pode dar uma olhada nele acessando adrianmedeirosdev.github.io/simple-calculator
+Você pode dar uma olhada nele [clicando aqui](adrianmedeirosdev.github.io/simple-calculator")
 
 ## :memo: Licença
 
