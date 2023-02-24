@@ -1,4 +1,4 @@
-<h1 align="center"> Simple calculator </h1>
+<h1 align="center"> Simple Calculator </h1>
 
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src=".github/calc.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 This project was developed using these technologies:
 
@@ -25,7 +25,7 @@ This project was developed using these technologies:
 
 You can take a look by <a href="https://adrianmedeirosdev.github.io/simple-calculator" target="_blank">clicking here</a>.
 
-## :memo: Licença
+## :memo: License
 
 This project is under the MIT license.
 
