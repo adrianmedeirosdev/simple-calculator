@@ -5,7 +5,7 @@ const btnEqual = document.querySelector('#equal-btn')
 const btnC = document.querySelector('#btn-c')
 const btnDEL = document.querySelector('#btn-del')
 
-let currentValue
+let currentValue = 0
 let previousValue
 let operation
 
@@ -30,6 +30,9 @@ function handleOperations(operationInput) {
 }
 
 function calculate(actualOperation) {
+  operations.forEach(operation => {
+    operation.classList.remove('operation-active')
+  })
   switch (actualOperation) {
     case '+':
       currentValue = sum(previousValue, currentValue)
@@ -64,6 +67,8 @@ operations.forEach(op => {
     const value = e.target.innerText
     handleOperations(value)
   })
+
+
 })
 
 btnEqual.addEventListener('click', () => calculate(operation))

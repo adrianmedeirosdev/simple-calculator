@@ -8,12 +8,13 @@
 }
 
 body{
-  background-color: rgb(10, 10, 10);
+  background: linear-gradient(rgb(25,25,25), black);
   width: 100vw;
   height: 100vh;
  display: flex;
  justify-content: center;
  align-items: center;
+ padding: 10px;
 }
 
 #calculator{
@@ -51,6 +52,7 @@ body{
   cursor: pointer;
 }
 
+
 .buttons-container .number{
   background-color: #e4e4e4;
 }
@@ -78,4 +80,16 @@ body{
 .buttons-container #equal-btn:hover{
   background-color: rgb(224, 120, 0);
 }
+
+@media (max-width: 400px){
+  #calculator, .buttons-container{
+    min-width: auto;
+  }
+
+  .buttons-container button{
+    min-width: auto;
+    min-height: auto;
+  }
+}
+
 
