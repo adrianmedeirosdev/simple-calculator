@@ -17,7 +17,7 @@ This project was developed using these technologies:
 - HTML, CSS and JS
 - Git and Github
 
-You can take a look by <a href="https://adrianmedeirosdev.github.io/to-do" target="_blank">clicking here</a>.
+You can take a look by <a href="https://adrianmedeirosdev.github.io/simple-calculator" target="_blank">clicking here</a>.
 ### ⚖ License
 <p> This project is licensed under <a href="https://opensource.org/license/mit/" target="_blank">The MIT License</a> </p>
 
